@@ -11,3 +11,8 @@
 | 3       | Даниил   | 36      |
 
 Это я, [nigjke](https://github.com/nigjke "Ссылка на мою страницу GitHub")
+> [!WARNING]
+> Это код который я пишу
+``const a = 5;
+const b = 20;
+alert(a + b);``
