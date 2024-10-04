@@ -19,4 +19,4 @@ alert(a + b);``
 
 ![Я 😍 Markdown][pinimg]
 
-[pinimg]: {https://media.tenor.com/JLY-DNaUjsMAAAAe/yujiro-hanm.png]
+[pinimg]: https://media.tenor.com/JLY-DNaUjsMAAAAe/yujiro-hanm.png
